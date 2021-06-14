@@ -14,7 +14,7 @@ Easy To Deploy 🤗
 3) Create An App On Heroku And Connect Heroku With Your Github Repository, 
 4) Manual Deploy To Your Repository. 
 ```
-![logo](https://telegra.ph/file/34e13355f6753772d4e3f.mp4)
+![logo](https://telegra.ph/file/fa8c6789618a67b14f725.jpg)
 
 # Report Any Error or Help Contact :
 [Channel 💬](https://t.me/Animemusicarchive6), 
