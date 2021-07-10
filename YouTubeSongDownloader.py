@@ -32,7 +32,7 @@ def time_to_seconds(time):
 def start(client, message):
    Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs = f'👋 𝗛𝗲𝗹𝗹𝗼 @{message.from_user.username}\n\n𝗜 𝗔𝗺 🎸𓂀 𝕐συ𝕋υႦҽ 𝕊σɳɠ 𝔻σɯɳʅσαԃҽɾ[🎶](https://telegra.ph/file/34e13355f6753772d4e3f.mp4)\n\n𝗦𝗲𝗻𝗱 𝗧𝗵𝗲 𝗡𝗮𝗺𝗲 𝗢𝗳 𝗧𝗵𝗲 𝗦𝗼𝗻𝗴 𝗬𝗼𝘂 𝗪𝗮𝗻𝘁... 😍🥰🤗\n\n𝗧𝘆𝗽𝗲 /s 𝗦𝗼𝗻𝗴 𝗡𝗮𝗺𝗲\n\n𝐄𝐠. `/s Faded`'
     message.reply_text(
-        text=TamilBots, 
+        text=Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs , 
         quote=False,
         reply_markup=InlineKeyboardMarkup(
             [
